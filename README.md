@@ -1,4 +1,3 @@
-## Hello, I am a Computer Engineering and Computer Science major at Northeastern University from Colombia
 ### Background
 I've been coding since I was eight by developing simple Arduino scripts. 
 
