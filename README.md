@@ -25,7 +25,7 @@ Python and Arduino.
 
 Currently, I am leading a small team in the development of smart glasses that can detect intentional blinks and run macros accordingly.
 
-During June to August of this year, I will be back in Colombia working as a part-time software developer for the company PACO:
+During June to September of this year, I was working as a part-time software developer for the company PACO:
 
 https://paco.com.co/
 <!--
