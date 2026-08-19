@@ -1,44 +1,43 @@
-### Background
-I've been coding since I was eight by developing simple Arduino scripts. 
+<h1 align="center">Hi, I'm Camilo</h1>
 
-During high school, I learned to develop in Java, Python, Flutter, and C++. 
+<p align="center">
+  <strong>Computer Engineering and Computer Science at Northeastern University</strong><br>
+  Building intelligent systems that connect software, hardware, and people.
+</p>
 
-I am now a CECS student and am interested in AI, ML, and computer vision.
+I started programming at eight with small Arduino projects. Since then, that curiosity has grown into work across computer vision, machine learning, embedded systems, and application development.
 
-## Experience
-I was the programming leader in the FRC LBL 7403 team in 2024, but I was a member from 2019 to 2024
+I am especially drawn to technology that feels useful in the real world: assistive wearables, privacy-first tools, reliable AI, and playful ways to make complex ideas easier to understand.
 
-Led a team of fellow students and programmers in creating an internal management solution for the Club Campestre Foundation
-which could help give out scholarships and maintain benefactors in good standing with the foundation.
+## Selected work
 
-I was part of TOM Medellin from 2022 to 2024, where I participated as a Maker and was the systems leader. There we developed
-a smart cane that could detect objects up to 6 meters away and warn the user, and a WhatsApp chatbot that interacted with potential customers for
-a group of local farmers.
+### [Iridium: predictive window management](https://github.com/cicm4/Iridium)
 
-I also created an internal management solution for TOM Medellin 2022, which helped track social hours for more than 100 makers.
+A privacy-first macOS window manager that uses short-lived context signals to surface the right apps at the right time. It is built in Swift and designed to process context in memory without retaining clipboard contents or behavioral history.
 
-I went to the Harvard pre-college program in summer 2023, where I created an image classification model with over 94% accuracy
-for the CIFAR-10 database and the MNIST database.
+### [Testing the limits of AI-generated text detectors](https://github.com/cicm4/cs6140-final)
 
-In spring 2025, I developed an interactive game that allowed children to learn about the impact of wildfires on climate change using
-Python and Arduino.
+An empirical study of how three detector families behave under unseen generators, adversarial paraphrasing, and domain shift. The project compares feature-based, neural, and zero-shot approaches and documents where confident predictions fail to generalize.
 
-Currently, I am leading a small team in the development of smart glasses that can detect intentional blinks and run macros accordingly.
+### [Smart-glasses blink recognition](https://github.com/cicm4/Smart_Glass)
 
-During June to September of this year, I was working as a part-time software developer for the company PACO:
+A real-time computer-vision pipeline that recognizes intentional blinks and turns them into configurable macros. The system combines eye-region features, sequence modeling, live inference, and on-device processing.
 
-https://paco.com.co/
-<!--
-**cicm4/cicm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Reinforcement learning for orbital flight](https://github.com/cicm4/KSP_RL_Orbiter)
 
-Here are some ideas to get you started:
+A deep reinforcement-learning agent trained with Soft Actor-Critic to reach orbit in Kerbal Space Program. The repository includes the training work and written project report.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience and impact
+
+- **FRC LBL Team 7403:** Member from 2019 to 2024 and programming lead in 2024, guiding the software work behind the team's competition robot.
+- **TOM Medellin:** Maker and systems lead from 2022 to 2024. Helped develop a smart cane that detects objects up to six meters away, a WhatsApp chatbot for local farmers, and an internal tool that tracked service hours for more than 100 makers.
+- **Club Campestre Foundation:** Led a student development team in building an internal system for scholarship distribution and benefactor management.
+- **[PACO](https://paco.com.co/):** Worked part-time as a software developer in 2025.
+- **Harvard Pre-College Program:** Built image-classification models that achieved more than 94% accuracy on CIFAR-10 and MNIST in 2023.
+- **Climate education:** Created an interactive Python and Arduino game in 2025 to help children explore how wildfires affect climate change.
+
+## How I build
+
+For machine learning and vision, I usually work with **Python, PyTorch, scikit-learn, and OpenCV**. For applications and systems, I use **Swift, Java, Dart/Flutter, C, and C++**. I also enjoy rapid hardware prototyping with **Arduino** and building lightweight services with **FastAPI**.
+
+Across those stacks, my approach stays consistent: prototype quickly, validate with real data, and keep the result understandable for the people who will use it.
