@@ -7,9 +7,7 @@
 
 I started programming at eight with small Arduino projects. Since then, that curiosity has grown into work across computer vision, machine learning, embedded systems, and application development.
 
-I am especially drawn to technology that feels useful in the real world: assistive wearables, privacy-first tools, reliable AI, and playful ways to make complex ideas easier to understand.
-
-## Selected work
+## Some of my work
 
 ### [Iridium: predictive window management](https://github.com/cicm4/Iridium)
 
