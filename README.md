@@ -38,5 +38,3 @@ A deep reinforcement-learning agent trained with Soft Actor-Critic to reach orbi
 ## How I build
 
 For machine learning and vision, I usually work with **Python, PyTorch, scikit-learn, and OpenCV**. For applications and systems, I use **Swift, Java, Dart/Flutter, C, and C++**. I also enjoy rapid hardware prototyping with **Arduino** and building lightweight services with **FastAPI**.
-
-Across those stacks, my approach stays consistent: prototype quickly, validate with real data, and keep the result understandable for the people who will use it.
