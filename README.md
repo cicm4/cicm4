@@ -27,6 +27,7 @@ A deep reinforcement-learning agent trained with Soft Actor-Critic to reach orbi
 
 ## Experience and impact
 
+- **NURobotics:** Member since 2026 as a programmer on the marine robotics team.
 - **FRC LBL Team 7403:** Member from 2019 to 2024 and programming lead in 2024, guiding the software work behind the team's competition robot.
 - **TOM Medellin:** Maker and systems lead from 2022 to 2024. Helped develop a smart cane that detects objects up to six meters away, a WhatsApp chatbot for local farmers, and an internal tool that tracked service hours for more than 100 makers.
 - **Club Campestre Foundation:** Led a student development team in building an internal system for scholarship distribution and benefactor management.
