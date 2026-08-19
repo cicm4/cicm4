@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Computer Engineering and Computer Science at Northeastern University</strong><br>
-  Building intelligent systems that connect software, hardware, and people.
 </p>
 
 I started programming at eight with small Arduino projects. Since then, that curiosity has grown into work across computer vision, machine learning, embedded systems, and application development.
